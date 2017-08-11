@@ -99,3 +99,10 @@ ENV/
 
 # mypy
 .mypy_cache/
+
+#IDEA project files
+.idea
+
+
+#Test Output files
+output
