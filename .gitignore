@@ -106,3 +106,9 @@ ENV/
 
 #Test Output files
 output
+
+.idea
+
+EPG.xml
+uk.xml
+uk.xml.gz
