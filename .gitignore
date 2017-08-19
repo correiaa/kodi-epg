@@ -112,3 +112,6 @@ output
 EPG.xml
 uk.xml
 uk.xml.gz
+
+*.m3u
+subscription_url
